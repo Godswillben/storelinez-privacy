@@ -1,4 +1,4 @@
-#### Privacy Policy
+ Privacy Policy
 ______________
 
 At Storelinez (“us”, “we”, “our” or the “Company”) we value your privacy and the importance of safeguarding your data. This Privacy Policy ("Privacy Policy") describes our privacy practices for the activities set out below. As per your rights, we inform you how we collect, store, access, 
