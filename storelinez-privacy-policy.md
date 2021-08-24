@@ -1,14 +1,17 @@
+Privacy Policy
+______________
+
 At Storelinez (“us”, “we”, “our” or the “Company”) we value your privacy and the importance of safeguarding your data. This Privacy Policy ("Privacy Policy") describes our privacy practices for the activities set out below. As per your rights, we inform you how we collect, store, access, 
 and otherwise process information relating to individuals. In this Policy, "Personal Data" refers to any information that on its own, or in combination with other available information, can distinguish an individual.
 
-###Scope
+### Scope
 
 This policy applies to the Storelinez websites and app.
 
 This Policy does not apply to third-party applications, websites, products, services or platforms that may be accessed through (non Storelinez ) links that we may provide to you. These sites are owned and operated independently from us, and they have their own separate privacy and data collection practices. Any personal data that you provide to these websites will be governed by the third-party’s own privacy policy. 
 We cannot accept liability for the actions or policies of these independent sites, and we are not responsible for the content or privacy practices of such sites.
 
-#Processing Activities
+### Processing Activities
 
 This Privacy Policy applies when you interact with us by doing any of the following:
 
@@ -17,12 +20,12 @@ This Privacy Policy applies when you interact with us by doing any of the follow
     Receive any communication from us including newsletters, emails, calls, or texts
 
 
-###Data You Provide
+### Data You Provide
 
 If you provide us, or our service providers, with any Personal Data relating to other individuals, you represent that you have the authority to do so and acknowledge that it will be used in accordance with this Privacy Statement. 
 If you believe that your Personal Data has been provided to us improperly, or to otherwise exercise your rights relating to your Personal Data, please contact us by using the information set out in the Contact Us section below.
 
-Device and Usage Data
+### Device and Usage Data
 
 When you visit a Storelinez website, we automatically collect and store information about your visit using browser cookies (files which are sent by us to your computer), or similar technology. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The Help Feature on most browsers will provide information on how to accept cookies, disable cookies or to notify you when receiving a new cookie. If you do not accept cookies, you may not be able to use some features of our Service and we recommend that you leave them turned on.
 
@@ -33,7 +36,7 @@ We also process information when you use our services and products. This informa
     Web terms or searches that led you to the site
     Time zone
 
-##Data we collect from third parties
+### Data we collect from third parties
 
 We may receive your personal data from third parties such as companies subscribing to Storelinez services, partners and other sources. This information is not collected by us but by a third party and is subject to the relevant third party’s own separate privacy and data collection policies. We do not have any control or input on how your personal data is handled by third parties. As always, you have the right to review and rectify this information. If you have any questions you should first contact the relevant third party for further information about your personal data. Where that third party is unresponsive to your rights, you may contact the Data Protection Officer at Storelinez (contact details below) and we can assist you.
 
@@ -42,7 +45,7 @@ Purpose and Legal Basis for the Processing of Personal Data
 
 We collect and use personal data about you with your consent to provide, maintain, and develop our products and services and understand how to improve them.
 
-These purposes include:
+# These purposes include:
 
     To deliver your product or service
         To fulfill orders including electronic and non-electronic shipment
@@ -80,7 +83,7 @@ Additionally, you can opt out of some of these services by visiting the Digital 
 
     http://optout.aboutads.info/
 
-#Legal Requirement
+## Legal Requirement
 
 We may use or disclose your personal data in order to comply with a legal obligation, in connection with a request from a public or government authority, or in connection with court or tribunal proceedings, to prevent loss of life or injury, or to protect our rights or property. Where possible and practical to do so, we will tell you in advance of such disclosure.
 Service Providers and Other Third Parties
@@ -89,7 +92,7 @@ We may use a third party service provider, independent contractors, agencies, or
 
 
 
-###What are cookies?
+### What are cookies?
 
 A cookie is a small file with information that your browser stores on your device. Information in this file is typically shared with the owner of the site in addition to potential partners and third parties to that business. The collection of this information may be used in the function of the site and/or to improve your experience.
 How we use cookies
